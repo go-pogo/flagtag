@@ -9,7 +9,7 @@ flagtag
 
 [latest-release-url]: https://github.com/go-pogo/flagtag/releases
 
-[build-status-img]: https://github.com/go-pogo/flagtag/workflows/Test/badge.svg
+[build-status-img]: https://github.com/go-pogo/flagtag/actions/workflows/test.yml/badge.svg
 
 [build-status-url]: https://github.com/go-pogo/flagtag/actions/workflows/test.yml
 
@@ -39,6 +39,6 @@ Additional detailed documentation is available at [pkg.go.dev][doc-url]
 <a href="https://www.jetbrains.com/?from=go-pogo" target="_blank"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.png" width="35" /></a>
 
 ## License
-Copyright © 2022 [Roel Schut](https://roelschut.nl). All rights reserved.
+Copyright © 2022-2024 [Roel Schut](https://roelschut.nl). All rights reserved.
 
 This project is governed by a BSD-style license that can be found in the [LICENSE](LICENSE) file.
