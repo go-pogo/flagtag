@@ -15,4 +15,4 @@ jobs:
         with:
           go-version: stable
 
-      - uses: golangci/golangci-lint-action@v3
+      - uses: golangci/golangci-lint-action@v4
